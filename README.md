@@ -27,5 +27,6 @@ docker run -d -p 80:80 desafio-dio
 2. Execução do container.
 3. Disponibilização da aplicação.
 
-## Repositório
-Substitua pelo link do seu GitHub após publicar.
+## Autor
+Filipe Oliveira Cardoso
+
